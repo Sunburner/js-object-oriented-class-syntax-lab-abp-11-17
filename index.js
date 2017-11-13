@@ -31,7 +31,7 @@ class BoardMember {
 
   }
 
-  let Ceo = new Ceo()
+  // let Ceo = new Ceo()
 
 }
 //     super.hireEmployee()
