@@ -29,4 +29,8 @@ class BoardMember {
     super.hireEmployee()
       return `Welcome aboard`
   }
+
+  let Ceo = new BoardMember()
 }
+
+
