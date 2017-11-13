@@ -26,11 +26,13 @@ class BoardMember {
   }
 
   class Ceo extends BoardMember{
-    super.hireEmployee()
-      return `Welcome aboard`
+
   }
 
-  let Ceo = new BoardMember()
 }
-
-
+//     super.hireEmployee()
+//       return `Welcome aboard`
+//   }
+// 
+//   let Ceo = new BoardMember()
+// }
